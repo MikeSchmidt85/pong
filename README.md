@@ -1,4 +1,4 @@
-<h1 align="center">Pong</p>
+<h1 align="center">Pong</h1>
 
 <hr/>
 
