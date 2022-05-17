@@ -1,6 +1,6 @@
 <h1 align="center">Pong</h1>
 
-<p align="center">Lets play some Pong. Two player pong on the PC.</p>
+<p align="center">Lets play some Pong. Two player pong on PC.</p>
 
 <hr/>
 
