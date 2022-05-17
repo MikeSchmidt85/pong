@@ -1,6 +1,18 @@
 <h1 align="center">Pong</p>
 
+<hr/>
 
+<p align="center">Lets play some Pong. Two player pong on the PC.</p>
+
+<hr/>
+
+<h3>Built with</h3>
+
+<p>
+  Python <br/>
+</p>
+
+<hr/>
 
 <h3>Screen Shots</h3>
 
