@@ -1,7 +1,5 @@
 <h1 align="center">Pong</h1>
 
-<hr/>
-
 <p align="center">Lets play some Pong. Two player pong on the PC.</p>
 
 <hr/>
